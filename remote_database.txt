@@ -1,4 +1,4 @@
-virüs data base.*
+virüs data base
 com.lgeha.nuts.*
 tm.vlinker.VgateFwUpdater.*
 trendyol.com.*
