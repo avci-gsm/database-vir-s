@@ -124,7 +124,7 @@ var
   List: TList<TUsbDeviceSysfsInfo>;
   I: Integer;
 begin
-  FillChar(Result, SizeOf(Result), 0);
+  Result := Default(TUsbDeviceSysfsInfo);
   Filter.Vendor := 0;
   SetLength(Filter.Products, 0);
 

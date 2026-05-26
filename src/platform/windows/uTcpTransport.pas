@@ -3,7 +3,7 @@ unit uTcpTransport;
 interface
 
 uses
-  SysUtils, WinSock2, uStatus, uByteTransport;
+  SysUtils, WinSock, uStatus, uByteTransport;
 
 const
   WIRELESS_PORT = 13579;
@@ -72,32 +72,32 @@ var
   ListenSock, ClientSock: TSocket;
   OptVal: Integer;
 begin
-  ListenSock := WinSock2.socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);
+  ListenSock := WinSock.socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);
   if ListenSock = INVALID_SOCKET then
     Exit(TBrokkrStatus.Fail('Cannot create listen socket'));
 
   OptVal := 1;
-  setsockopt(ListenSock, SOL_SOCKET, SO_REUSEADDR, @OptVal, SizeOf(OptVal));
+  WinSock.setsockopt(ListenSock, SOL_SOCKET, SO_REUSEADDR, @OptVal, SizeOf(OptVal));
 
   FillChar(Addr, SizeOf(Addr), 0);
   Addr.sin_family := AF_INET;
-  Addr.sin_port := htons(Port);
+  Addr.sin_port := WinSock.htons(Port);
   Addr.sin_addr.S_addr := INADDR_ANY;
 
-  if bind(ListenSock, TSockAddr(Addr), SizeOf(Addr)) = SOCKET_ERROR then
+  if WinSock.bind(ListenSock, Addr, SizeOf(Addr)) = SOCKET_ERROR then
   begin
-    closesocket(ListenSock);
+    WinSock.closesocket(ListenSock);
     Exit(TBrokkrStatus.Fail('Bind failed'));
   end;
 
-  if WinSock2.listen(ListenSock, 1) = SOCKET_ERROR then
+  if WinSock.listen(ListenSock, 1) = SOCKET_ERROR then
   begin
-    closesocket(ListenSock);
+    WinSock.closesocket(ListenSock);
     Exit(TBrokkrStatus.Fail('Listen failed'));
   end;
 
-  ClientSock := WinSock2.accept(ListenSock, nil, nil);
-  closesocket(ListenSock);
+  ClientSock := WinSock.accept(ListenSock, nil, nil);
+  WinSock.closesocket(ListenSock);
 
   if ClientSock = INVALID_SOCKET then
     Exit(TBrokkrStatus.Fail('Accept failed'));
@@ -116,7 +116,7 @@ procedure TTcpConnection.Close;
 begin
   if FSocket <> INVALID_SOCKET then
   begin
-    closesocket(FSocket);
+    WinSock.closesocket(FSocket);
     FSocket := INVALID_SOCKET;
   end;
   FConnected := False;
@@ -142,8 +142,8 @@ begin
   FTimeoutMs := Value;
   if FSocket <> INVALID_SOCKET then
   begin
-    setsockopt(FSocket, SOL_SOCKET, SO_RCVTIMEO, @Value, SizeOf(Value));
-    setsockopt(FSocket, SOL_SOCKET, SO_SNDTIMEO, @Value, SizeOf(Value));
+    WinSock.setsockopt(FSocket, SOL_SOCKET, SO_RCVTIMEO, @Value, SizeOf(Value));
+    WinSock.setsockopt(FSocket, SOL_SOCKET, SO_SNDTIMEO, @Value, SizeOf(Value));
   end;
 end;
 
@@ -158,7 +158,7 @@ var
 begin
   if not FConnected then Exit(-1);
   Len := Length(Data);
-  Result := WinSock2.send(FSocket, Data[0], Len, 0);
+  Result := WinSock.send(FSocket, Data[0], Len, 0);
 end;
 
 function TTcpConnection.Recv(var Data: TBytes; Count: Integer; Retries: Cardinal): Integer;
@@ -166,7 +166,7 @@ begin
   if not FConnected then Exit(-1);
   if Length(Data) < Count then
     SetLength(Data, Count);
-  Result := WinSock2.recv(FSocket, Data[0], Count, 0);
+  Result := WinSock.recv(FSocket, Data[0], Count, 0);
 end;
 
 function TTcpConnection.RecvZLP(Retries: Cardinal): Integer;

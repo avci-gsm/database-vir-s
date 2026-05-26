@@ -72,7 +72,7 @@ var
   R: TBrokkrResult<TByteSource>;
   LZ4R: TBrokkrResult<TLZ4FrameHeaderInfo>;
 begin
-  FillChar(Spec, SizeOf(Spec), 0);
+  Spec := Default(TImageSpec);
   Spec.Kind := ikRawFile;
   Spec.Path := FilePath;
   Spec.SourceBaseName := ExtractFileName(FilePath);
@@ -114,7 +114,7 @@ var
   Src: TByteSource;
   LZ4R: TBrokkrResult<TLZ4FrameHeaderInfo>;
 begin
-  FillChar(Spec, SizeOf(Spec), 0);
+  Spec := Default(TImageSpec);
   Spec.Kind := ikTarEntry;
   Spec.Path := TarPath;
   Spec.EntryName := E.Name;

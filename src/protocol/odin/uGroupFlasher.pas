@@ -4,7 +4,7 @@ interface
 
 uses
   SysUtils, Classes, Generics.Collections, SyncObjs, uStatus, uByteTransport,
-  uOdinCmd, uOdinWire, uPit, uPitTransfer, uFlash;
+  uOdinCmd, uOdinWire, uPit, uPitTransfer, uFlash, uByteSource;
 
 type
   TTarget = class

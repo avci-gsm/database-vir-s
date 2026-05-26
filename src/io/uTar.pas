@@ -167,6 +167,7 @@ var
   ZeroCount: Integer;
   Prefix, NameField: string;
   E: TTarEntry;
+  K: Integer;
 begin
   FEntries.Clear;
   FPayloadSizeBytes := 0;
@@ -214,9 +215,8 @@ begin
       if (Byte(SizeStr[1]) and $80) <> 0 then
       begin
         EntrySize := 0;
-        var I: Integer;
-        for I := 1 to 12 do
-          EntrySize := (EntrySize shl 8) or Byte(SizeStr[I]);
+        for K := 1 to 12 do
+          EntrySize := (EntrySize shl 8) or Byte(SizeStr[K]);
         EntrySize := EntrySize and $7FFFFFFFFFFFFFFF;
       end
       else

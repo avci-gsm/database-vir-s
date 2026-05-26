@@ -49,9 +49,6 @@ type
 
 implementation
 
-uses
-  SetupApi, JwaWinUSB;
-
 { TWinUSBDevice }
 
 constructor TWinUSBDevice.Create(const ADevNode: string);
