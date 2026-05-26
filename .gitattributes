@@ -1,5 +1,4 @@
-*.pas eol=crlf
-*.dfm eol=crlf
-*.dpr eol=crlf
-*.dproj eol=crlf
-*.res eol=crlf
+*.pas -text
+*.dfm -text
+*.dpr -text
+*.dproj -text
