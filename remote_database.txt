@@ -1,5 +1,7 @@
 
 virüs data base
+com.jrustonapps.myearthquakealerts.*
+com.nt36xxxtouchscreen.deltadiff.*
 com.novaclean.*
 com.novaclean.indancesweep
 com.lgeha.nuts.*
