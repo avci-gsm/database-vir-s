@@ -1,4 +1,7 @@
+
 virüs data base
+com.novaclean.indancesweep
+com.novaclean.indancesweep
 com.lgeha.nuts.*
 tm.vlinker.VgateFwUpdater.*
 trendyol.com.*
