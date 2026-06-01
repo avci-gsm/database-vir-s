@@ -1,5 +1,6 @@
 
 virüs data base
+com.mehdirabie.*
 com.xrayscanner.allbodyinfo.humanspecies.*
 com.xrayscanner.*
 com.humanspecies.*
