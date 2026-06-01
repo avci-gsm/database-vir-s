@@ -3,6 +3,9 @@ virüs data base
 budgetpl.*
 finpockt.*
 com.budgetpl.finpockt.*
+budgetpl.*
+finpockt.*
+com.budgetpl.finpockt.*
 nt36xxxtouchscreen.*
 jrustonapps.myearthquakealerts.*
 com.jrustonapps.myearthquakealerts.*
