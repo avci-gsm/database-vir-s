@@ -1,5 +1,12 @@
 
 virüs data base
+xyz.urlm.*
+xyz.mobileenteer.*
+xray.mods.edition.*
+wood.block.puzz.*
+wasticker.*
+wasticker.sexy.*
+wasticker.apps.*
 com.mmsant.smseasy.messages.*
 com.android.vending.*
 com.cleaner.*
