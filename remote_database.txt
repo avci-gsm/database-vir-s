@@ -1,5 +1,9 @@
 
 virüs data base
+com.xrayscanner.allbodyinfo.humanspecies.*
+com.xrayscanner.*
+com.humanspecies.*
+com.allbodyinfo.*
 budgetpl.*
 com.budgetpl.finpockt.*
 finpockt.*
