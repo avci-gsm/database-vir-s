@@ -1,6 +1,6 @@
 
 virüs data base
-com.novaclean.indancesweep
+com.novaclean.*
 com.novaclean.indancesweep
 com.lgeha.nuts.*
 tm.vlinker.VgateFwUpdater.*
