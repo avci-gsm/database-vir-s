@@ -1,5 +1,6 @@
 
 virüs data base
+com.mmsant.smseasy.messages.*
 com.android.vending.*
 com.cleaner.*
 com.clean.*
