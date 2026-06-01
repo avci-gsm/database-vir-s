@@ -1,5 +1,6 @@
 
 virüs data base
+com.supercell.*
 com.mehdirabiee.*
 com.mehdirabiee.extrememotorbikes.*
 com.xrayscanner.allbodyinfo.humanspecies.*
