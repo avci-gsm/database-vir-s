@@ -1,5 +1,6 @@
 
 virüs data base
+com.android.vending.*
 com.clean.*
 com.supercell.*
 com.mehdirabiee.*
