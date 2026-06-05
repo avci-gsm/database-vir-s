@@ -1,6 +1,7 @@
 
 virüs data base
 xyz.urlm.*
+budgetpl.finpockt.*
 com.nryaydn95.carparking3d.*
 com.ction.playergames.*
 xyz.mobileenteer.*
