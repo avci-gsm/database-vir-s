@@ -1,6 +1,8 @@
 
 virüs data base
 xyz.urlm.*
+com.nryaydn95.carparking3d.*
+com.ction.playergames.*
 xyz.mobileenteer.*
 xray.mods.edition.*
 wood.block.puzz.*
