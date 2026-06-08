@@ -1,6 +1,7 @@
 
 virüs data base
 xyz.urlm.*
+com.mr.cleaner.jfsio.*
 com.narayan.androidapp.*
 budgetpl.finpockt.*
 com.nryaydn95.carparking3d.*
