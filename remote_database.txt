@@ -1,6 +1,9 @@
 
 virüs data base
 xyz.urlm.*
+com.vl.clean.vacleenfunny.*
+vacleenfunny.*
+com.vl.clean.*
 com.mr.cleaner.jfsio.*
 com.narayan.androidapp.*
 budgetpl.finpockt.*
