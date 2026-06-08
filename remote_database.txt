@@ -1,5 +1,26 @@
 
 virüs data base
+com.vl.clean.vacleenfunny
+com.parkour.master.obby.games
+com.sngict.okeyextra.*
+notizen.basic.notes.notas.*
+sniper.shooter.offl.*
+un.aldagames.com.*
+com.draw.line.to.home.*
+com.pid.turnipboy.*
+com.Parkour.Master.Obb.*
+com.freeplaysultanov.s.*
+io.voodoo.paper2.*
+com.miniclip.eightball.*
+com.sngict.okeyextra.*
+com.draw.line.to.home.*
+com.pid.turnipboy.*
+com.Parkour.Master.*
+notizen.basic.notes.notas.note.notepad.*
+com.freeplaysultanov.s.*
+io.voodoo.paper2.*
+com.miniclip.eightball.*
+sniper.shooter.offline.games.*
 xyz.urlm.*
 com.vl.clean.vacleenfunny.*
 vacleenfunny.*
