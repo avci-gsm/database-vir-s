@@ -3,6 +3,20 @@
 # Virüs database değildir.
 # WhatsApp, banka, SMS, rehber, telefon, launcher, Play Services içermez.
 
+
+com.linkedin.android
+com.zhiliaoapp.musically
+com.google.android.apps.magazines
+com.google.android.apps.podcasts
+com.google.android.videos
+com.google.android.apps.wellbeing
+cn.wps.xiaomi.abroad.lite
+cn.wps.moffice_eng
+com.amazon.mShop.android.shopping
+com.mi.global.shop
+com.mi.global.bbs
+com.mi.global.pocobbs
+com.mi.global.pocostore
 com.miui.analytics
 com.miui.msa.global
 com.miui.hybrid
