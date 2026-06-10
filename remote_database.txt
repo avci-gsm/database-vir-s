@@ -1,5 +1,31 @@
 
 virüs data base
+xhelper.*
+triada.*
+joker.*
+agentsmith.*
+gooligan.*
+hummingbad.*
+shedun.*
+grifthorse.*
+pegasus.*
+finspy.*
+airpush.*
+leadbolt.*
+startapp.*
+mobvista.*
+tapjoy.*
+chartboost.*
+appnext.*
+adcolony.*
+cleaner.*
+booster.*
+optimizer.*
+phonecooler.*
+rambooster.*
+memorycleaner.*
+junkclean.*
+batterysaver.*
 com.samsung.android.app.spage.*
 com.samsung.android.game.gametools.*
 com.samsung.android.game.gamehome.*
