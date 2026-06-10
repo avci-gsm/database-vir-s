@@ -1,0 +1,35 @@
+# SAFE DEBLOAT - TECNO / INFINIX / ITEL / TRANSSION
+# Sadece Cihaz Hızlandır / Safe Debloat içindir.
+# Virüs database değildir.
+
+com.transsion.phonemaster
+com.transsion.xclub
+com.transsion.aha.games
+com.transsion.magicshow
+com.transsion.carlcare
+com.transsion.wifiplaytogether
+com.transsion.hilauncher.zero
+com.transsion.wezone
+com.transsion.aivoiceassistant
+com.transsion.kolun.assistant
+com.transsion.weather
+com.transsion.gamezone
+com.transsion.zahooc
+com.transsion.sk
+com.transsion.letswitch
+com.transsion.smartpanel
+com.transsion.healthlife
+com.transsion.microintelligence
+com.transsion.scanningrecharger
+com.talpa.hibrowser
+com.talpa.share
+com.talpa.store
+com.talpa.weather
+com.afmobi.boomplayer
+com.ape.xender
+com.itel.themestore
+com.infinix.xclub
+com.infinix.smartpanel
+com.infinix.wezone
+com.tecno.spot
+com.tecno.tspot

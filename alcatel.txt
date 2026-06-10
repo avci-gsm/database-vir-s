@@ -1,0 +1,18 @@
+# SAFE DEBLOAT - ALCATEL / TCL
+# Sadece Cihaz Hızlandır / Safe Debloat içindir.
+# Virüs database değildir.
+
+com.tcl.usercenter
+com.tcl.browser
+com.tcl.live
+com.tcl.messagebox
+com.tcl.weather
+com.tcl.themestore
+com.tcl.gamecenter
+com.tcl.aota
+com.tct.weather
+com.tct.themestore
+com.tct.usercenter
+com.tct.gamecenter
+com.tct.browser
+com.tct.onetouchbooster

@@ -1,0 +1,41 @@
+# SAFE DEBLOAT - OPPO / REALME / ONEPLUS COLOROS
+# Sadece Cihaz Hızlandır / Safe Debloat içindir.
+# Virüs database değildir.
+
+com.heytap.themestore
+com.heytap.browser
+com.heytap.market
+com.heytap.cloud
+com.heytap.usercenter
+com.heytap.music
+com.heytap.video
+com.heytap.pictorial
+com.heytap.reader
+com.heytap.health
+com.heytap.openid
+com.heytap.mcs
+com.nearme.atlas
+com.nearme.browser
+com.nearme.gamecenter
+com.nearme.themestore
+com.nearme.statistics.rom
+com.nearme.instant.platform
+com.opos.ads
+com.oppo.market
+com.oppo.music
+com.oppo.video
+com.oppo.usercenter
+com.oppo.quicksearchbox
+com.oppo.operationManual
+com.oppo.community
+com.oppo.partnerbrowsercustomizations
+com.coloros.childrenspace
+com.coloros.weather.service
+com.coloros.weather2
+com.coloros.assistantscreen
+com.coloros.smartsidebar
+com.coloros.floatassistant
+com.coloros.compass2
+com.realme.link
+com.realmecomm.app
+com.redteamobile.roaming

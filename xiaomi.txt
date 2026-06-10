@@ -1,0 +1,113 @@
+# SAFE DEBLOAT - XIAOMI / REDMI / POCO / MIUI / HYPEROS
+# Sadece Cihaz Hızlandır / Safe Debloat içindir.
+# Virüs database değildir.
+# WhatsApp, banka, SMS, rehber, telefon, launcher, Play Services içermez.
+
+com.miui.analytics
+com.miui.msa.global
+com.miui.hybrid
+com.miui.hybrid.accessory
+com.miui.systemAdSolution
+com.miui.personalassistant
+com.miui.bugreport
+com.miui.yellowpage
+com.miui.miservice
+com.miui.videoplayer
+com.miui.player
+com.miui.weather2
+com.miui.cleaner
+com.miui.securityadd
+com.miui.daemon
+com.miui.cloudbackup
+com.miui.cloudservice
+com.miui.cloudservice.sysbase
+com.miui.micloudsync
+com.miui.newmidrive
+com.xiaomi.mipicks
+com.xiaomi.glgm
+com.xiaomi.gamecenter
+com.xiaomi.discover
+com.xiaomi.payment
+com.xiaomi.shop
+com.xiaomi.mirecycle
+com.xiaomi.joyose
+com.xiaomi.mibrain.speech
+com.xiaomi.aiasst.service
+com.xiaomi.aiasst.vision
+com.xiaomi.scanner
+com.tencent.soter.soterserver
+
+# Xiaomi / MIUI ek bloat
+com.mi.globalbrowser
+com.mi.global.shop
+com.mi.global.bbs
+com.mi.global.pocobbs
+com.mi.global.pocostore
+com.mi.globalminusscreen
+com.miui.android.fashiongallery
+com.miui.huanji
+com.miui.mishare.connectivity
+com.xiaomi.smarthome
+
+# Preload / partner uygulamalar
+com.alibaba.aliexpresshd
+ru.aliexpress.buyer
+com.amazon.mShop.android.shopping
+com.booking
+com.ebay.mobile
+com.ebay.carrier
+com.facebook.services
+com.facebook.system
+com.facebook.appmanager
+com.facebook.katana
+com.linkedin.android
+com.netflix.partner.activation
+com.netflix.mediaclient
+com.opera.preinstall
+com.opera.browser
+com.spotify.music
+com.zhiliaoapp.musically
+com.google.android.apps.tachyon
+com.google.android.play.games
+com.google.android.apps.magazines
+com.google.android.apps.podcasts
+com.google.android.music
+com.google.android.videos
+com.google.android.apps.wellbeing
+com.google.android.apps.healthdata
+com.google.android.healthconnect.controller
+
+# Oyun / reklam preload
+com.block.puzzle.game.hippo.mi
+com.sukhavati.gotoplaying.bubble.BubbleShooter.mint
+com.crazy.juicer.xm
+com.logame.eliminateintruder3d
+com.jewelsblast.ivygames.Adventure.free
+com.igg.android.lordsmobile
+com.mobilelegends.mi
+com.tencent.igxiaomi
+com.nf.snake
+com.kingsgroup.ss.xiaomi
+com.mintgames.triplecrush.tile.fun
+com.mintgames.wordtrip
+
+# Rusya / bölgesel preload
+ru.ivi.client
+ru.more.play
+ru.ozon.app.android
+ru.vk.store
+ru.yandex.searchplugin
+com.yandex.browser
+com.yandex.preinstallsatellite
+com.yandex.zen
+com.yandex.zenkitpartnerconfig
+com.allgoritm.youla
+
+# Operatör / bölge preload
+com.aura.oobe.bouygues
+
+# Klavye / ekstra araç preload
+com.facemoji.lite.xiaomi
+com.preff.kb.xm
+cn.wps.xiaomi.abroad.lite
+cn.wps.moffice_eng
