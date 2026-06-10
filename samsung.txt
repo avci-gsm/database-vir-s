@@ -5,11 +5,11 @@
 
 
 
-
-com.samsung.android.app.spage
-com.samsung.android.game.gos
 com.samsung.android.game.gamehome
 com.samsung.android.game.gametools
+com.samsung.android.game.gos
+com.samsung.android.app.spage
+com.samsung.android.game.gos
 com.samsung.android.aremoji
 com.samsung.android.aremojieditor
 com.samsung.android.arzone
