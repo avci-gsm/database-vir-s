@@ -588,14 +588,11 @@ com.tls.*
 samsung.android.task.dialtacts.*
 com.android.stk2.*
 com.openai.chatgpt.*
-com.android.incallui.*
 com.android.server.telecom.*
-com.android.providers.telephony.*
 com.android.providers.contacts.*
 com.android.cellbroadcastreceiver.*
 com.android.cellbroadcastservice.*
 com.heytap.themestore.*
-com.coloros.phonemanager.*
 com.coloros.securitykeyboard.*
 com.coloros.securitypermission.*
 com.coloros.backuprestore.*
@@ -605,7 +602,6 @@ com.coloros.encryption.*
 com.coloros.healthcheck.*
 com.coloros.exsystemservice.*
 com.transsion.hilauncher.*
-com.transsion.camera.*
 com.gallery20.*
 com.transsion.calculator.*
 com.transsion.soundrecorder.*
@@ -690,7 +686,6 @@ com.android.internal.display.cutout.emulation.tall.*
 com.android.networkstack.overlay.*
 com.android.certinstaller.*
 com.android.theme.color.black.*
-com.android.carrierconfig.*
 com.google.android.marvin.talkback.*
 com.android.theme.color.green.*
 com.android.overlay.livepicker.*
@@ -1531,7 +1526,6 @@ fancyoptimizer.clean.security.battery.phonemaster.*
 fast.phone.storage.cache.clean.*
 fastcharger.smartcharging.batterysaver.batterydoctor.*
 files.fileexplorer.filemanager.*
-com.oppo.launcher.*
 finance.solve.app.*
 flar2.appdashboard.*
 flar2.devcheck.*
@@ -1628,7 +1622,6 @@ pdfreader.pdfviewer.allofficedocumentreader.pdfgo.*
 phonecleaner.junkfiles.appmanager.duplicatefileremover.applock.*
 photo.editor.background.eraser.*
 com.android.contacts.samsung.*
-com.android.keychain.*
 net.peakgames.Yuzbir.*
 net.wllppr.kawaii_aesthetic_wallpaper.*
 com.android.launcher.*
@@ -1638,7 +1631,6 @@ com.android.cts.ctsshim.*
 com.android.deskclock.*
 com.android.devicelockcontroller.*
 com.android.documentsui.*
-com.android.emergency.*
 rocks.video.videoplayer.*
 roshag.chat.enhance.iushx.*
 ru.zdevs.zarchiver.*
