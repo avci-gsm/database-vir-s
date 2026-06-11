@@ -30,6 +30,12 @@ rambooster.*
 memorycleaner.*
 junkclean.*
 batterysaver.*
+com.sukhavati.gotoplaying.*
+com.block.puzzle.game.hippo.*
+com.jewelsblast.ivygames.*
+com.sukhavati.gotoplaying.bubble.bubbleshooter.mint
+com.block.puzzle.game.hippo.mi
+com.jewelsblast.ivygames.adventure.free
 com.samsung.android.app.spage.*
 com.samsung.android.game.gametools.*
 com.samsung.android.game.gamehome.*
