@@ -1,5 +1,9 @@
 
 virüs data base
+com.xrayscanner.allbodyinfo.humanspecies
+com.xrayscanner.*
+*allbodyinfo*
+*humanspecies*
 xhelper.*
 triada.*
 joker.*
