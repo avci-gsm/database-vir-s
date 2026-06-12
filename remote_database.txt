@@ -1,5 +1,8 @@
 com.xrayscanner.allbodyinfo.humanspecies
 com.xrayscanner.*
+com.dust.bin
+com.dust.bin.*
+com.dust.*
 com.deletedrecoverpro
 com.biss.roce.*
 *allbodyinfo*
