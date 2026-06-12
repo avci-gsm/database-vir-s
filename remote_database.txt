@@ -1,6 +1,7 @@
 com.xrayscanner.allbodyinfo.humanspecies
 com.xrayscanner.*
 *allbodyinfo*
+cleanvanish*
 *humanspecies*
 xhelper.*
 triada.*
