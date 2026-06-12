@@ -3,7 +3,7 @@ com.xrayscanner.*
 *allbodyinfo*
 cleanvanish*
 *humanspecies*
-dust*
+dust.*
 xhelper.*
 triada.*
 joker.*
