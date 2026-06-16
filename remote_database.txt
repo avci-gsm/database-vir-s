@@ -1,3 +1,7 @@
+com.Hadiz.Pillowchase.*
+com.Hadiz.*
+Hadiz.*
+Pillowchase.*
 com.xrayscanner.allbodyinfo.humanspecies
 com.xrayscanner.*
 com.dust.bin.*
