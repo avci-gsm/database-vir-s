@@ -1,4 +1,6 @@
 com.deletedrecoverpro.*
+*boomcab*
+*appusers*
 *deletedrecoverpro*
 com.novaclean.indancesweep.*
 com.vl.clean.vacleenfunny.*
