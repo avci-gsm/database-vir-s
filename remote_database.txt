@@ -1,3 +1,6 @@
+premst.gophergoldrush.*
+gophergoldrush.*
+premst.*
 com.Hadiz.Pillowchase.*
 com.Hadiz.*
 Hadiz.*
