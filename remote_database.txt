@@ -1,5 +1,6 @@
 com.deletedrecoverpro.*
 *boomcab*
+*snsconsulting*
 *appusers*
 *deletedrecoverpro*
 com.novaclean.indancesweep.*
