@@ -1,5 +1,16 @@
 com.deletedrecoverpro.*
 *boomcab*
+*video*downloader*
+*zerolit*
+*oneclear*
+*zerolit*oneclear*
+*pdfreader*proeditor*
+*proeditor*freepdfviewer*
+*freepdfviewer*
+*recoverdeletedfiles*photovideo*
+*photorecovery*azurafilesrecovery*
+*azrecovery*
+*photorecovery*
 *snsconsulting*
 *appusers*
 *deletedrecoverpro*
