@@ -2,7 +2,8 @@ com.deletedrecoverpro.*
 rotate.link.rl*
 com.rsupport*
 com.rsupport.rs.activity.rsupport.aas2*
-com.textmessages.privatesms.messanger
+com.textmessages.privatesms.messanger*
+com.pdfviewer.scanner*
 com.textmessages*
 *privatesms*
 com.wssyncmldm*
