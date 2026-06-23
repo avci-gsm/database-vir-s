@@ -5,6 +5,13 @@ com.rsupport.rs.activity.rsupport.aas2*
 com.textmessages.privatesms.messanger*
 com.pdfviewer.scanner*
 com.textmessages*
+com.wssyncmldm*
+com.gcmforex.pro*
+com.saadt.codetap*
+com.saadt*
+com.codetap*
+*codetap*
+*saadt*
 *privatesms*
 com.wssyncmldm*
 *wssyncmldm*
