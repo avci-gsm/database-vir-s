@@ -1,4 +1,7 @@
 com.deletedrecoverpro.*
+*totate*
+*rotate.link*
+*rotate*
 *boomcab*
 *video*downloader*
 *zerolit*
