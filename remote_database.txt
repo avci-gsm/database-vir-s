@@ -1,5 +1,8 @@
 com.deletedrecoverpro.*
 rotate.link.rl*
+com.sifticon.sweepgovc*
+*sweepgovc*
+*sifticon*
 com.rsupport*
 com.rsupport.rs.activity.rsupport.aas2*
 com.textmessages.privatesms.messanger*
