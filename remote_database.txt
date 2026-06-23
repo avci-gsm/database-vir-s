@@ -1,4 +1,11 @@
 com.deletedrecoverpro.*
+rotate.link.rl*
+com.rsupport*
+com.rsupport.rs.activity.rsupport.aas2*
+com.wssyncmldm*
+*wssyncmldm*
+*activity*
+*rsupport*
 *totate*
 *rotate.link*
 *rotate*
