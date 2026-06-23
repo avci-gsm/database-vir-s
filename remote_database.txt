@@ -1,5 +1,6 @@
 com.deletedrecoverpro.*
 rotate.link.rl*
+com.sifticon.sweepgovc
 com.sifticon.sweepgovc*
 *sweepgovc*
 *sifticon*
