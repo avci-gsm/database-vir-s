@@ -2,6 +2,9 @@ com.deletedrecoverpro.*
 rotate.link.rl*
 com.rsupport*
 com.rsupport.rs.activity.rsupport.aas2*
+com.textmessages.privatesms.messanger
+com.textmessages*
+*privatesms*
 com.wssyncmldm*
 *wssyncmldm*
 *activity*
