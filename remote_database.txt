@@ -1,4 +1,7 @@
 com.deletedrecoverpro.*
+cs.cs.core.sweep
+*core.sweep*
+*cs.cs*
 rotate.link.rl*
 com.sifticon.sweepgovc
 com.sifticon.sweepgovc*
