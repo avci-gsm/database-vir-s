@@ -38,6 +38,11 @@ com.wssyncmldm*
 *rotate*
 *boomcab*
 *video*downloader*
+*.pdftool.reader.document*
+*pdf.viewer.pdftool*
+*puzzlebrickslegend*
+*puzzle*bricks*legend*
+*fast_notepad*notes_app*
 *zerolit*
 *quickdownloader*
 *oneclear*
