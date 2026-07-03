@@ -1,5 +1,7 @@
 com.deletedrecoverpro.*
 cs.cs.core.sweep
+com.espublishing.photorecover*
+*filerecover.video.restore*
 *core.sweep*
 *cs.cs*
 rotate.link.rl*
