@@ -28,6 +28,13 @@ com.wssyncmldm*
 *rsupport*
 *totate*
 *rotate.link*
+*filerecovery*
+*file*recovery*
+*videorecovery*
+*video*recovery*
+*photorecovery*
+*photo*recovery*
+*deleted*recovery*
 *rotate*
 *boomcab*
 *video*downloader*
