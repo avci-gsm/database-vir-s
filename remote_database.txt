@@ -21,6 +21,10 @@ com.gcmforex.pro*
 com.saadt.codetap*
 com.saadt*
 com.codetap*
+com.cleanpurgeio.sweep.incare
+com.cleanpurgeio.sweep.incare*
+*sweep*
+*cleanpurgeio*
 *codetap*
 *saadt*
 *privatesms*
