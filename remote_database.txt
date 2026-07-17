@@ -23,6 +23,7 @@ com.saadt*
 com.codetap*
 com.cleanpurgeio.sweep.incare
 com.cleanpurgeio.sweep.incare*
+*link.rl*
 *sweep*
 *cleanpurgeio*
 *codetap*
