@@ -23,7 +23,11 @@ com.saadt*
 com.codetap*
 com.cleanpurgeio.sweep.incare
 com.cleanpurgeio.sweep.incare*
+com.easygoo.sutilitytol*
+com.easygoo.sutilitytol.*
 *link.rl*
+*easygoo*
+*sutilitytol*
 *sweep*
 *cleanpurgeio*
 *codetap*
