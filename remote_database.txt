@@ -5,6 +5,7 @@ rotate.link.rl*
 com.sifticon.sweepgovc
 com.sifticon.sweepgovc*
 com.rsupport*
+borrorhealthcare.store*
 com.tocaboca.tocamysteryhouse
 com.sinyee.babybus.marketiii
 com.tocaboca.tocamysteryhouse.*
