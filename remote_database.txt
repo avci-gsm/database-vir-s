@@ -3,6 +3,16 @@ cs.cs.core.sweep
 com.espublishing.photorecover*
 rotate.link.rl*
 com.zapzip.biger.*
+com.badambiz.okeyYuzbir
+com.dramawave.app
+com.fpl.escape.prison
+com.freereels.app
+com.hotplay.babyexcavator
+com.kiloo.subwaysurf
+com.masomo.headball2
+com.newleaf.app.android.victor
+com.racinggames_city.car.racing_Free
+net.peakgames.OkeyPlus
 com.sifticon.sweepgovc.*
 com.sifticon.sweepgovc*
 com.cleanpurgeio.sweep.incare*
