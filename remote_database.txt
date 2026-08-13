@@ -2,6 +2,7 @@ com.deletedrecoverpro.*
 cs.cs.core.sweep
 com.espublishing.photorecover*
 rotate.link.rl*
+com.zapzip.biger
 com.sifticon.sweepgovc
 com.sifticon.sweepgovc*
 com.cleanpurgeio.sweep.incare*
