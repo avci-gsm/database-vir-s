@@ -189,6 +189,15 @@ com.rescue.psoeprs.solf.*
 com.storymatrix.drama.*
 com.tfkb.*
 sg.bigo.live.*
+com.clmyuennd.clepuger.*
+com.livetv.smartplayer.onlivetv.watchtv.app.*
+maxplayer.mediaplayer.videoplayer.*
+com.tayal.traders.shop.*
+com.precisemold.precisemold.*
+tr.com.littlecaesars.*
+com.task.calendar.*
+com.simplemobiletools.calendar.*
+com.calenderlatest.yami.*
 blood.diabate.pressure.tracker.bloodpressureapp.bloodpressuretracker.*
 com.ahoygames.okey.*
 com.alldocumentsreader.fileopener.viewandreadfiles.ppt.word.excel.docs.reader.*
