@@ -113,6 +113,11 @@ prayertime.compassdirection.qiblafinder.hijricalender.*
 wowo.free.autoclicker.*
 wowo.free.autoclicker.automatictap.*
 com.autoclicker.*
+com.alfacln.jkclnr.*
+com.fc.p.cp.jelly.mukbang.asmr.live.diy.*
+com.setk.widget.*
+com.smscity.app.*
+ma.safe.bn.*
 automatictap.*
 com.rsupport.rs.activity.rsupport.aas2*
 com.textmessages.privatesms.messanger*
