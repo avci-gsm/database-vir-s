@@ -88,6 +88,15 @@ com.sinyee.babybus.marketiii
 com.tocaboca.tocamysteryhouse.*
 com.takecleanup.cleans.*
 com.vbudget.finvio.*
+com.emoticon.bai.*
+com.finegrains.service.*
+com.app.tech.town.pdf.viewer.reader.*
+com.codejoy.bp.log.aos.*
+com.gstarmc.android.*
+com.notacicek.app.*
+com.seeds.textsms.avon.*
+pdfscanner.scan.pdf.scanner.*
+com.finegrains.service.*
 com.kanbersoftware.swipeit.*
 com.precisemold.precisemold.*
 com.aicalculator.mathsolver.*
