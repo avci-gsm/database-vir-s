@@ -42,6 +42,7 @@ com.cleanpurgeio.sweep.incare*
 com.kop.cuteplay.*
 com.zapzip.biger.*
 com.rsupport.*
+com.plug.runner.battery.mates.*
 *com.axlebolt.standoff2*
 *standoff2*
 *com.company.shaw*
