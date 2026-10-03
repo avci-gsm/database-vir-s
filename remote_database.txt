@@ -4,6 +4,7 @@ com.setk.widget.*
 com.smscity.app.*
 ma.safe.bn.*
 com.emoticon.bai.*
+com.emoticon.bai
 com.finegrains.service.*
 com.app.tech.town.pdf.viewer.reader.*
 com.codejoy.bp.log.aos.*
