@@ -46,6 +46,7 @@ com.ww3schoolsonlinewebtutorials_12396648.*
 com.yg.bike.racinggame.*
 com.yg.fashionqueen.*
 com.yg.mini.games.*
+com.clipwhite.onebrowsing.*
 mobeasy.classic.calculator.*
 beatmaker.edm.musicgames.gunsounds.*
 com.alien.shooter.galaxy.attack.*
@@ -1609,6 +1610,8 @@ stepcounter.pedometer.stepstracker.*
 storage.manager.ora.*
 superclean.*
 svpeng.*
+clipwhite.*
+onebrowsing.*
 systems.sieber.fsclock.*
 tambir.*
 tapjoy.*
